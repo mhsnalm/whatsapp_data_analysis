@@ -15,3 +15,5 @@ In order to run the code you will need to have python 3.x and jupyter notebooks 
 
 Furthermore, you can also use anaconda distrbution for comprehensive data sceince computation environment to run this code:
 - https://www.anaconda.com/download/
+
+Special thanks to numerous publicly available algorithms and code used in development of these scripts.
