@@ -1,4 +1,4 @@
-# whatsapp_data_analysis
+# Whatsapp data analysis using Jupyter Notebooks
 WhatsApp data analysis through jupyter notebook using python 3 kernel
 
 Jupyter notebook generates following statistics:
@@ -15,5 +15,8 @@ In order to run the code you will need to have python 3.x and jupyter notebooks 
 
 Furthermore, you can also use anaconda distrbution for comprehensive data sceince computation environment to run this code:
 - https://www.anaconda.com/download/
+
+Please go through following link for detailed understanding of jupyter notebook concepts and power:
+- https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
 Special thanks to numerous publicly available algorithms and code used in development of these scripts.
